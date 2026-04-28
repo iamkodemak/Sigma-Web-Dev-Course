@@ -4,4 +4,10 @@ body{
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    /* Added box-sizing so padding doesn't affect element widths */
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
 }
