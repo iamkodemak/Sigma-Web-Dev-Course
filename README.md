@@ -32,11 +32,12 @@ Ready to start? [Click here](https://www.youtube.com/playlist?list=PLu0W_9lII9ag
 
 ---
 
-> **Personal Note:** I'm using this fork to track my own progress through the course. Currently on Chapter 8 (JavaScript DOM Manipulation). Marking completed exercises with a ✅ in the respective folders.
+> **Personal Note:** I'm using this fork to track my own progress through the course. Currently on Chapter 9 (JavaScript Events & Advanced DOM). Marking completed exercises with a ✅ in the respective folders.
 >
 > **Progress Log:**
 > - ✅ Chapter 1-4: HTML & CSS Basics
 > - ✅ Chapter 5: CSS Flexbox
 > - ✅ Chapter 6: CSS Grid
 > - ✅ Chapter 7: JavaScript Fundamentals
-> - 🔄 Chapter 8: JavaScript DOM Manipulation (in progress)
+> - ✅ Chapter 8: JavaScript DOM Manipulation
+> - 🔄 Chapter 9: JavaScript Events & Advanced DOM (in progress)
